@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But keep directories
+!*/
+
+# Keep README files
+!README.md
+
+# Keep this file
+!.gitignore
