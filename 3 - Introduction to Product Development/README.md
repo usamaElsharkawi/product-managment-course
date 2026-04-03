@@ -143,9 +143,36 @@ Scrum is the most common framework used to implement Agile. it organizes work in
 ### Kanban
 *To be documented.*
 
-### Waterfall
-*To be documented.*
+### Kanban (The "Continuous Flow")
+Kanban is a more relaxed Agile framework focused on visualizing work and managing a constant stream of tasks without time-boxed sprints.
+
+#### 1. Core Principles
+*   **Visualizing Work:** Tasks are cards on a **Kanban Board** (To Do, In Progress, Done).
+*   **Continuous Flow:** No sprints or sprint backlogs. The team takes the next top item from the Product Backlog as soon as they finish one.
+*   **WIP Limits (Work In Progress):** A limit on the number of tasks in any given state. (Stop starting, start finishing!).
+*   **Bottleneck Detection:** Visualizing work makes it easy to see where tasks are getting stuck.
+
+#### 2. Best For
+*   Maintenance, Customer Support, or bug-fixing teams.
+*   Environments where work is unpredictable and changes daily.
+
+### Waterfall (The "Straight Line")
+Waterfall is the traditional, sequential approach to development. Each phase must be 100% complete before moving to the next.
+
+#### 1. Core Principles
+*   **Sequential Steps:** Research → Design → Develop → Release.
+*   **All-at-Once:** Develop and release all features together at the end of a long cycle.
+*   **Rigid Requirements:** Changes are difficult and expensive once the project has started.
+
+#### 2. Risks in Software
+*   **High Risk:** It takes a long time to build everything; the market or user needs may change during development.
+*   **Waste:** You might find out *after* launching that users only liked 1 out of 10 features.
+
+#### 3. Best For
+*   Construction, Hardware manufacturing, and high-stakes compliance (e.g., medical devices, nuclear power).
 
 ## Key Takeaways
-*   The PM's "Clock Speed" and focus must shift as the product moves through its lifecycle.
-*   Success in one phase (e.g., Intro) doesn't guarantee success in the next (e.g., Growth) without a mindset shift.
+*   **Scrum** is a **Relay Race** (time-boxed). **Kanban** is a **Conveyor Belt** (continuous).
+*   **Agile** is the **Spiral** (iterative). **Waterfall** is the **Straight Line** (linear).
+*   The best methodology is the one that fits your team's workflow and the product's needs.
+
