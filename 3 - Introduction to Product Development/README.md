@@ -96,9 +96,19 @@ The true mindset of a PM is managing **The Three Pillars of Risk**:
 **Golden Rule:** Minimize Waste, Maximize Learning.
 
 ## Methodologies
-### Lean Product Development
-*To be documented.*
-*To be documented.*
+### Lean Product Development (The "Anti-Waste" Philosophy)
+Lean is a product development philosophy focused on **eliminating waste** (any effort that doesn't add direct value to the customer).
+
+#### 1. Core Principles
+*   **Identify Waste (Muda):** If a customer doesn't care about a feature, it is waste. Avoid building "just in case" features.
+*   **The "Manual-First" Rule:** Do the work yourself before automating it. Prove the demand exists before building a complex system.
+*   **Build-Measure-Learn Loop:** Build the smallest thing possible (**MVP**), measure how users actually use it, and learn whether to **Pivot** or **Persevere**.
+
+#### 2. The "Slow is Smooth, Smooth is Fast" Mindset
+*   **Slow:** In the Introduction/Conceive phase, move slowly to deeply understand the user's problem.
+*   **Smooth:** Use that deep learning to create a "smooth" path to Product-Market Fit with no friction.
+*   **Fast:** Once the path is smooth, move fast (Growth phase) to capture the market and scale.
+*   *Warning:* "Fast is Messy, Messy is Slow." Rushing early leads to technical debt and customer churn.
 
 ### Agile
 *To be documented.*
