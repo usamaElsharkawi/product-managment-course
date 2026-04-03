@@ -110,10 +110,34 @@ Lean is a product development philosophy focused on **eliminating waste** (any e
 *   **Fast:** Once the path is smooth, move fast (Growth phase) to capture the market and scale.
 *   *Warning:* "Fast is Messy, Messy is Slow." Rushing early leads to technical debt and customer churn.
 
-### Agile
-*To be documented.*
+### Agile (The "Lean Mindset" for Software)
+Agile is an iterative methodology specifically designed for software development. It focuses on flexibility, collaboration, and delivering small batches of working software frequently.
 
-### Scrum
+#### 1. The "Iterative" Method (The Spiral)
+*   **The Concept:** Instead of a linear path (Waterfall), Agile moves in a **spiral**. Plan → Build → Launch → Listen → Repeat.
+*   **Small Batches:** Break giant projects into "slices" (User Stories).
+*   **Feedback Loops:** Show work to real users every 2 weeks to reduce risk.
+*   **Constant Refinement:** The plan changes based on what is learned in each iteration.
+
+#### 2. Lean vs. Agile: The Relationship
+*   **Hierarchy:** Lean is the **Strategy** (Why are we building this? Is it waste?), while Agile is the **Tactic** (How do we build these features flexibly?).
+*   **Goal:** Lean keeps you from building the wrong *thing*. Agile keeps you from building the thing the wrong *way*.
+
+### Scrum (The Agile "Playbook")
+Scrum is the most common framework used to implement Agile. it organizes work into specific roles and "time-boxed" cycles.
+
+#### 1. The 4 Steps of Scrum
+1.  **Sprint Planning:** Move top items from the **Product Backlog** (the master list) to the **Sprint Backlog** (the 2-week goal).
+2.  **The Sprint:** A 2-week period where the team focuses *only* on the Sprint Backlog.
+3.  **Daily Standup:** A 10-15 minute morning meeting where everyone stands up to keep it brief. (What did I do yesterday? What am I doing today? Any blockers?).
+4.  **Retrospective:** An end-of-sprint meeting to discuss what went well, what didn't, and how to improve the process.
+
+#### 2. The PM's Role in Scrum
+*   **Prioritizer:** Deciding which features are the most important for the next sprint.
+*   **Unblocker:** Clearing obstacles for engineers during the daily standup.
+*   **Protector:** Keeping the team focused and preventing "Scope Creep."
+
+### Kanban
 *To be documented.*
 
 ### Kanban
