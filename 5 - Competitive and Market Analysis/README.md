@@ -55,3 +55,28 @@ Break-Even Analysis determines the point at which total costs equal total revenu
 
 **Connection to Market Size:**
 The break-even point must be a realistic and achievable fraction of your Serviceable Obtainable Market (SOM). If the break-even point is too close to or exceeds the SOM, the project is likely not viable.
+
+---
+
+### 5. Finding and Identifying Competitors
+
+Finding competitors involves identifying all entities that address the same underlying customer needs or "jobs-to-be-done."
+
+#### Methods for Discovery:
+*   **Search Engines:** Using keywords, "vs." searches, and "alternatives to."
+*   **Customer Feedback:** Asking current users and lost leads about alternatives they considered.
+*   **Industry Reports:** Consulting firms like Gartner or Forrester.
+*   **Review Sites/Directories:** G2, Capterra, App Stores, Amazon.
+*   **Social Media & Monitoring:** Hashtags, industry groups, Google Alerts.
+*   **Product Discovery Platforms:** Product Hunt, Crunchbase.
+
+#### The Four Types of Competitors:
+
+1.  **Direct Competitors:** Offer the same product to the same audience for the same problem (e.g., Strava vs. Nike Run Club).
+    *   *Focus:* Feature parity, UI/UX, and pricing.
+2.  **Indirect Competitors:** Offer different products but solve the same core problem for the same audience (e.g., Fitness App vs. a local Gym).
+    *   *Focus:* Convenience and unique value propositions.
+3.  **Potential (Future) Competitors:** Companies not currently in the market but with the resources/tech to enter easily (e.g., Apple entering the fitness app space).
+    *   *Focus:* Building defensive moats and community.
+4.  **Substitute Competitors:** Entirely different ways to achieve the same goal (e.g., Fitness App vs. a Paper Journal).
+    *   *Focus:* Lowering friction and proving ROI over low-tech options.
