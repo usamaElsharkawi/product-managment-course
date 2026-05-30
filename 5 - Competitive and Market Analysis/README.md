@@ -72,11 +72,19 @@ Finding competitors involves identifying all entities that address the same unde
 
 #### The Four Types of Competitors:
 
-1.  **Direct Competitors:** Offer the same product to the same audience for the same problem (e.g., Strava vs. Nike Run Club).
-    *   *Focus:* Feature parity, UI/UX, and pricing.
-2.  **Indirect Competitors:** Offer different products but solve the same core problem for the same audience (e.g., Fitness App vs. a local Gym).
-    *   *Focus:* Convenience and unique value propositions.
-3.  **Potential (Future) Competitors:** Companies not currently in the market but with the resources/tech to enter easily (e.g., Apple entering the fitness app space).
-    *   *Focus:* Building defensive moats and community.
-4.  **Substitute Competitors:** Entirely different ways to achieve the same goal (e.g., Fitness App vs. a Paper Journal).
-    *   *Focus:* Lowering friction and proving ROI over low-tech options.
+1.  **Direct Competitors:** Same product, same audience, same problem (e.g., Strava vs. Nike Run Club).
+2.  **Indirect Competitors:** Different product, same problem, same audience (e.g., Fitness App vs. a local Gym).
+3.  **Potential (Future) Competitors:** Companies with resources/tech to enter easily (e.g., Apple entering fitness).
+4.  **Substitute Competitors:** Entirely different ways to achieve the same goal (e.g., App vs. Paper Journal).
+
+---
+
+### 6. The Five Criteria for Understanding Competitors
+
+To deeply analyze a competitor, look beyond their features and examine their "internal engine" and market position:
+
+1.  **Product Core (The Team):** How good is their engineering/product team? A great team can out-execute and build better technical moats.
+2.  **Size of User Base:** Size is an advantage. It brings easier press, funding, and partnerships. Large incumbents can dominate new markets just by converting a small % of their existing users.
+3.  **Design:** Usability and aesthetics. People prefer beautiful, easy-to-use products. Good design is a key differentiator (e.g., Apple).
+4.  **Brand:** Customer perception and loyalty. A strong brand allows for premium pricing and gives a "benefit of the doubt" for new launches, but can also be "pigeonholed" into specific categories.
+5.  **Speed:** How fast can they build and ship? Large companies often slow down due to bureaucracy. Startups win by "running circles" around giants through agility.
