@@ -88,3 +88,36 @@ To deeply analyze a competitor, look beyond their features and examine their "in
 3.  **Design:** Usability and aesthetics. People prefer beautiful, easy-to-use products. Good design is a key differentiator (e.g., Apple).
 4.  **Brand:** Customer perception and loyalty. A strong brand allows for premium pricing and gives a "benefit of the doubt" for new launches, but can also be "pigeonholed" into specific categories.
 5.  **Speed:** How fast can they build and ship? Large companies often slow down due to bureaucracy. Startups win by "running circles" around giants through agility.
+
+---
+
+### 7. Feature Tables
+
+A **Feature Table** (Competitive Matrix) is a grid used to compare the specific functional capabilities of your product against competitors.
+
+*   **Purpose:** Identify feature gaps, spot "table stakes" (must-have features), and find "Blue Oceans" (unique differentiation).
+*   **Strategic Use:** Helps in prioritization and crafting a unique selling point. Don't just look for "Yes/No"—look for the *quality* of execution.
+
+---
+
+### 8. Monitoring Competitors
+
+Competitive analysis is an ongoing process, not a one-time task.
+
+*   **What to Monitor:** Product changes, strategic shifts (hiring), customer sentiment (reviews), and business moves (funding/acquisitions).
+*   **Tools:**
+    *   **Google Alerts:** For news and mentions.
+    *   **Crunchbase:** For funding and leadership changes.
+    *   **Visualping:** To track changes on competitors' websites/pricing pages.
+    *   **Social Listening:** Tracking Reddit, Twitter, and forums.
+
+---
+
+### 9. The Ultimate Goal for a PM
+
+Ultimately, all market and competitive analysis serves one purpose: **Making better strategic decisions.**
+
+As a PM, you care about:
+1.  **Finding the White Space:** Identifying what you can do that no one else is doing well.
+2.  **Validating Viability:** Ensuring the market is large enough to be profitable.
+3.  **Anticipating the Move:** Staying ahead of the "horse race" by predicting competitor roadmaps.
