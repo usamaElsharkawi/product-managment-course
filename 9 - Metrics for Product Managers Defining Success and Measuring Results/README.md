@@ -233,3 +233,77 @@ Once you've defined your signals, you can hand that column to engineers as a spe
 
 ### Limitation
 HEART is user-centric but not business-centric. It omits revenue and growth dynamics. Best paired with AARRR or other business-focused frameworks.
+
+
+---
+
+## AARRR Pirate Metrics (Dave McClure, 500 Startups)
+
+### What Problem It Solves
+HEART is comprehensive but heavy — it captures user sentiment (happiness, task success) which is valuable but costly to measure. AARRR strips away attitudinal dimensions and focuses purely on **behavioral funnel optimization**. It answers one question: *"Are we moving users from awareness to revenue efficiently?"*
+
+Origin: Dave McClure, a VC at 500 Startups, created it as a standardized framework to evaluate companies for investment.
+
+### The Five Stages
+
+Each stage feeds the next. The funnel is only as strong as its weakest stage.
+
+| Stage | What It Measures | Example Metric |
+|-------|------------------|---------------|
+| **A** Acquisition | User arrives — visits website, downloads app | Traffic, app installs, signups |
+| **A** Activation | User experiences core value for the first time | Completed onboarding, first key action |
+| **R** Retention | User comes back repeatedly | DAU/MAU, cohort retention rate |
+| **R** Referral | User tells others about the product | Viral coefficient, invites sent |
+| **R** Revenue | User pays money | MRR, ARPU, conversion to paid |
+
+### Key Insight: Referral Is the Hidden Gem
+Most frameworks stop at retention. AARRR adds Referral because viral growth compounds without paid acquisition. If your product naturally compels users to invite others, growth becomes exponential rather than linear.
+
+### How It Differs from HEART
+
+| Dimension | HEART | AARRR |
+|-----------|-------|-------|
+| Origin | Google UX researcher | Silicon Valley VC |
+| Best for | Mature products optimizing UX | Early-stage startups seeking growth |
+| Captures | Behavior + Attitude | Behavior only |
+| Includes happiness? | Yes (H) | No |
+| Includes referral? | No | Yes |
+| Output | Diagnostic (find problems) | Growth-oriented (optimize funnel) |
+
+**The principle:** *Find the stage with the biggest drop-off and fix that first. Don't optimize the whole funnel — optimize the weakest link.*
+
+---
+
+## Tracking Your Metrics in Practice
+
+### What Problem It Solves
+Knowing *what* to measure is useless if you can't *actually measure* it. This lecture bridges the gap between metrics theory and instrumentation reality.
+
+### The Tool Landscape (Course Era)
+
+| Tool | Purpose |
+|------|---------|
+| Google Analytics | General web analytics, traffic, page views |
+| Crazy Egg | Heatmaps, click tracking, scroll depth |
+| KISSmetrics | Custom metrics, user behavior tracking |
+| Optimizely | A/B testing with click tracking |
+| Segment | Data hub — decouples data collection from analysis |
+
+### The Key Insight: Data Infrastructure Is Strategic
+The instructor's emphasis on Segment reveals an important architectural principle — **data infrastructure is a strategic asset, not a tactical choice.**
+
+If you hard-code Google Analytics tracking into your app, switching to Mixpanel means rewriting code and losing history. If you use a hub (Segment), you instrument once and plug/unplug analytics tools without consequence. You preserve optionality.
+
+**The principle:** *Design your data architecture for flexibility. You will change tools as your needs evolve.*
+
+### Modern Tools (2024-2026)
+
+| Course Tool | Modern Alternative | Why |
+|-------------|-------------------|-----|
+| Google Analytics | GA4 / Amplitude / Mixpanel | Amplitude/Mixpanel are purpose-built for product analytics (events, cohorts, funnels) |
+| Crazy Egg | Hotjar / FullStory / Microsoft Clarity | Clarity is free; FullStory adds session replays with dev logs |
+| KISSmetrics | Amplitude / Mixpanel | Event-based product analytics with better UX |
+| Optimizely | LaunchDarkly / GrowthBook | Feature flags + experimentation; GrowthBook is open-source |
+| Segment | Twilio Segment / RudderStack | Segment is now paid; RudderStack is the open-source alternative |
+
+**The timeless principle:** *Choose tools that minimize the friction between having a question and getting an answer. The best tool is the one your team will actually use — not the one with the most features.*
